@@ -1,0 +1,2 @@
+mcfg_sw/generic/asus/ustmo/mcfg_sw.mbn
+mcfg_sw/generic/asus/row/mcfg_sw.mbn
